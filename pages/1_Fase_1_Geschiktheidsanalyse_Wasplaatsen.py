@@ -450,7 +450,7 @@ def main():
     selected_csvs = [
         'natuur_zh_delta',
         'water_zh_delta',
-        'akkerboeren_zh_delta', 
+        'Interessepunten_zh_delta', 
         'Stad'
     ]
 
